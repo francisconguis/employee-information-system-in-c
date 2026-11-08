@@ -1,5 +1,3 @@
-📁 ABC COMPANY - Employees Information System
-
 # 📁 ABC COMPANY - Employees Information System
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
