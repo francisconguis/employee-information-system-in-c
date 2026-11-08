@@ -19,14 +19,42 @@ This is a simple C program that manages employee records for ABC COMPANY. It all
 
 🛠 How to Use
 
-      📦 Compile the Program
-        Use any C compiler (e.g., GCC):
-        bash
-        gcc employee_system.c -o employee_system
-    
-      ▶️ Run the Program
-        bash
-        ./employee_system
+    📦 Compile the Program
+      Use any C compiler (e.g., GCC):
+      ```bash
+      gcc employee_system.c -o employee_system
+      ```
+
+    ⚡ Quick Test Setup (Optional)
+      To test the program immediately without manually entering records:
+      - Rename `sample_record.txt` to `record.txt` (or copy its contents into `record.txt`).
+      - This provides mock entries to verify display and loyalty award features right away.
+
+    ▶️ Run the Program
+      ```bash
+      ./employee_system
+      ```
+
+### 🖥️ Program Preview
+
+```text
+                                  ABC COMPANY
+                         Employees Information System
+
+1. Enter new record
+2. Display Employee Information
+3. Display Loyalty Awardees
+4. Exit
+Choice: 3
+
+                                  ABC COMPANY
+                                Loyalty Awardees
+
+EmployeeID      EmployeeName         Position                  Years in Service
+-------------------------------------------------------------------------------
+EMP001          Juan Dela Cruz       Senior Software Engineer  13
+EMP003          Carlos Reyes         Lead Accountant           11
+
 
 🧾 Menu Options
 
@@ -59,25 +87,3 @@ The function yearsInService() calculates how many years the employee has been wi
 🧑‍💻 Author
 
 Developed for educational or internal use in managing basic employee information in C.
-
-
-### 🖥️ Program Preview
-
-```text
-                                  ABC COMPANY
-                         Employees Information System
-
-1. Enter new record
-2. Display Employee Information
-3. Display Loyalty Awardees
-4. Exit
-Choice: 3
-
-                                  ABC COMPANY
-                                Loyalty Awardees
-
-EmployeeID      EmployeeName         Position                  Years in Service
--------------------------------------------------------------------------------
-EMP001          Juan Dela Cruz       Senior Software Engineer  13
-EMP003          Carlos Reyes         Lead Accountant           11
-```
