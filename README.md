@@ -1,5 +1,14 @@
 📁 ABC COMPANY - Employees Information System
 
+# 📁 ABC COMPANY - Employees Information System
+
+![Language](https://img.shields.io/badge/Language-C-blue.svg)
+![Standard](https://img.shields.io/badge/Standard-C99-informational.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
+
+This is a simple C program that manages employee records for ABC COMPANY...
+
 This is a simple C program that manages employee records for ABC COMPANY. It allows users to input, view, and evaluate employee data such as ID, name, address, department, position, and year hired. It also determines employees eligible for a Loyalty Award (10+ years of service).
 
 📌 Features
