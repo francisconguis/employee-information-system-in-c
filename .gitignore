@@ -1,0 +1,10 @@
+# Compiled executables and objects
+*.exe
+*.o
+*.out
+employee-information-system
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
