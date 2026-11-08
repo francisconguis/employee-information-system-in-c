@@ -54,7 +54,7 @@ EmployeeID      EmployeeName         Position                  Years in Service
 -------------------------------------------------------------------------------
 EMP001          Juan Dela Cruz       Senior Software Engineer  13
 EMP003          Carlos Reyes         Lead Accountant           11
-
+```
 
 🧾 Menu Options
 
