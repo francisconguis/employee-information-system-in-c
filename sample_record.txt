@@ -1,0 +1,3 @@
+EMP001|Juan Dela Cruz|123 Buendia St, Manila|IT Department|Senior Software Engineer|2012
+EMP002|Maria Santos|456 Taft Ave, Pasay|HR Department|HR Specialist|2021
+EMP003|Carlos Reyes|789 Espana Blvd, Sampaloc|Finance|Lead Accountant|2014
